@@ -20,6 +20,7 @@ An analysis was performed looking at outcomes based on funding goals. Through th
 ![Outcomes_vs_Goals](https://github.com/maureengamache/Module-1-Challenge/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+During this analysis several challenges were encountered. The first was ensuring that all pre-work was correctly completed, particularly the text to columns for the Parent and Subcategory categories of theater/play. Without correctly separating these two text, additional data was pulled into my pivot tables and graphs for other parent/subcategories of theater/spaces and theater/musical. The second challenge encountered was using the multiple criteria and range formula of COUNTIFS, with an "s", instead of the singular criteria and range COUNTIF. Additional challeneges could have been manually retyping all of the COUNTIF formulas for each of the 12 rows and 8 columns in the Outcomes Based on Goals chart, without making an error. Therefore it was extremely useful to be able to search, find, and replace the names of "successful", "failed" and "canceled" in all of the COUNTIFS formulas.   
 
 ## Results
 

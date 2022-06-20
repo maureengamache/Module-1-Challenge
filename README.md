@@ -2,7 +2,9 @@
 
 ## Overview of Project
 
-### Purpose
+
+
+### Purpose- to visualize campaing outcomes based on launch date and to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
 
 ## Analysis and Challenges
 

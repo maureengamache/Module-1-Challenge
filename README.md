@@ -2,13 +2,13 @@
 
 ## Overview of Project
 
-
-
-### Purpose- to visualize campaing outcomes based on launch date and to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
+### Purpose- The purpose of this assignment was to visualize campaign outcomes based on launch date and to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount in order to provide real world data analysis to customer Lousie regarding her play *Fever*'s potential future campaigns. 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+
+![Theater_Outcomes_vs_Launch](https://github.com/maureengamache/Module-1-Challenge/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
